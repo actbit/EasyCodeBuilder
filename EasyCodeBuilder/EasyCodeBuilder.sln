@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCodeBuilder", "EasyCodeBuilder.csproj", "{713418B2-DD05-4D0A-9004-17DE400AE690}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EasyCodeBuilderSetup", "..\EasyCodeBuilderSetup\EasyCodeBuilderSetup.vdproj", "{4C9BB140-4957-4BA7-873B-1D42F79597D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713418B2-DD05-4D0A-9004-17DE400AE690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713418B2-DD05-4D0A-9004-17DE400AE690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713418B2-DD05-4D0A-9004-17DE400AE690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713418B2-DD05-4D0A-9004-17DE400AE690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9BB140-4957-4BA7-873B-1D42F79597D0}.Debug|Any CPU.ActiveCfg = Debug
+		{4C9BB140-4957-4BA7-873B-1D42F79597D0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B87F7BB1-EA1E-4DAC-836A-BDA735DB79E8}
+	EndGlobalSection
+EndGlobal

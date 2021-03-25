@@ -1,0 +1,348 @@
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\bin\Debug\EasyCodeBuilder.exe.config
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\bin\Debug\EasyCodeBuilder.exe
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\bin\Debug\EasyCodeBuilder.pdb
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.Calculation.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.StatementBlock.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.AddOutputObject.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.Conditions.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.Loop.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.ArrayDefine.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.ImputConsole.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.OutputConsole.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.DictionaryDefine.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.ListInsert.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.ListDefine.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.AddDictionary.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.Contlols.Items.MultiData.MultiDate.AddListe.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.VariableDefine.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.Form1.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.Form2.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.Properties.Resources.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.StatementBase.resources
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.csproj.GenerateResource.cache
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.exe
+C:\Users\Takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.pdb
+C:\Users\takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.csprojAssemblyReference.cache
+C:\Users\takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.CaseControl.resources
+C:\Users\takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.BreakControl.resources
+C:\Users\takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.ReturnMold.resources
+C:\Users\takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.Assignment.resources
+C:\Users\takeuchi\Documents\簡単プログラミングプロジェクト\簡単プログラミング\obj\Debug\EasyCodeBuilder.IndexAssignment.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe.config
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.pdb
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csprojAssemblyReference.cache
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Assignment.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Calculation.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBlock.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddOutputObject.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.BreakControl.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.CaseControl.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Conditions.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Loop.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ArrayDefine.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ImputConsole.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.OutputConsole.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.DictionaryDefine.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.IndexAssignment.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListInsert.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListDefine.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddDictionary.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Items.MultiData.MultiDate.AddListe.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ReturnMold.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.VariableDefine.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form1.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form2.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Properties.Resources.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBase.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.GenerateResource.cache
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CoreCompileInputs.cache
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CopyComplete
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.exe
+C:\Users\takeuchi\Desktop\EasyCodeBuilder\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.pdb
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe.config
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.pdb
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Assignment.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Calculation.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBlock.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddOutputObject.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.BreakControl.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.CaseControl.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Conditions.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Loop.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ArrayDefine.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.OutputConsole.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.DictionaryDefine.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.IndexAssignment.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListInsert.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListDefine.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddDictionary.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Items.MultiData.MultiDate.AddListe.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ReturnMold.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.VariableDefine.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form1.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form2.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBase.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.GenerateResource.cache
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CopyComplete
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.exe
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.pdb
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.InputConsole.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MainMethod.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddMethod.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MethodVariable.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Method.UseMethod.resources
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe.manifest
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.application
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.TrustInfo.xml
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.exe.manifest
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.application
+C:\Users\takeuchi\Desktop\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csprojAssemblyReference.cache
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csprojAssemblyReference.cache
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Assignment.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Calculation.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBlock.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddOutputObject.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.BreakControl.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.CaseControl.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Conditions.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Loop.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ArrayDefine.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.InputConsole.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.OutputConsole.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.DictionaryDefine.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.IndexAssignment.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListInsert.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListDefine.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddDictionary.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Items.MultiData.MultiDate.AddListe.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ReturnMold.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.VariableDefine.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddMethod.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MainMethod.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MethodVariable.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Method.UseMethod.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form1.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form2.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBase.resources
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.GenerateResource.cache
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.exe
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.pdb
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe.config
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.pdb
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\takeuchi\Desktop\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CopyComplete
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe.config
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.exe
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.pdb
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe.config
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.pdb
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Assignment.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Calculation.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBlock.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddOutputObject.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.BreakControl.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.CaseControl.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Conditions.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Loop.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ArrayDefine.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.InputConsole.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.OutputConsole.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.DictionaryDefine.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.IndexAssignment.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListInsert.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListDefine.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddDictionary.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Items.MultiData.MultiDate.AddListe.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ReturnMold.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.VariableDefine.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddMethod.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MainMethod.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MethodVariable.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Method.UseMethod.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form1.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form2.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBase.resources
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.GenerateResource.cache
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CopyComplete
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.exe
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.pdb
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csprojResolveAssemblyReference.cache
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Assignment.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Calculation.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBlock.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddOutputObject.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.BreakControl.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.CaseControl.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Conditions.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Loop.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ArrayDefine.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.InputConsole.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.OutputConsole.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.DictionaryDefine.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.IndexAssignment.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListInsert.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListDefine.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddDictionary.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Items.MultiData.MultiDate.AddListe.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ReturnMold.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.VariableDefine.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddMethod.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MainMethod.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MethodVariable.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Method.UseMethod.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form1.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form2.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBase.resources
+E:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.GenerateResource.Cache
+F:\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csprojAssemblyReference.cache
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe.config
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.exe
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.pdb
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.pdb
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Assignment.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Calculation.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBlock.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddOutputObject.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.BreakControl.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.CaseControl.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Conditions.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Loop.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ArrayDefine.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.InputConsole.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.OutputConsole.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.DictionaryDefine.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.IndexAssignment.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListInsert.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListDefine.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddDictionary.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Items.MultiData.MultiDate.AddListe.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ReturnMold.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.VariableDefine.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddMethod.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MainMethod.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MethodVariable.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Method.UseMethod.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form1.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form2.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBase.resources
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.GenerateResource.Cache
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csprojAssemblyReference.cache
+E:\Files\Programs\Programs\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CopyComplete
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe.config
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.pdb
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csprojAssemblyReference.cache
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Assignment.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Calculation.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBlock.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddOutputObject.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.BreakControl.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.CaseControl.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Conditions.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Loop.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ArrayDefine.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.InputConsole.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.OutputConsole.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.DictionaryDefine.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.IndexAssignment.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListInsert.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListDefine.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddDictionary.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Items.MultiData.MultiDate.AddListe.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ReturnMold.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.VariableDefine.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddMethod.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MainMethod.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MethodVariable.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Method.UseMethod.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form1.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form2.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBase.resources
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.GenerateResource.cache
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CoreCompileInputs.cache
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CopyComplete
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.exe
+F:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.pdb
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe.config
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.pdb
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csprojAssemblyReference.cache
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Assignment.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Calculation.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBlock.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddOutputObject.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.BreakControl.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.CaseControl.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Conditions.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Loop.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ArrayDefine.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.InputConsole.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.OutputConsole.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.DictionaryDefine.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.IndexAssignment.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListInsert.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListDefine.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddDictionary.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Items.MultiData.MultiDate.AddListe.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ReturnMold.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.VariableDefine.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddMethod.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MainMethod.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MethodVariable.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Method.UseMethod.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form1.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form2.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBase.resources
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.GenerateResource.cache
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CoreCompileInputs.cache
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CopyComplete
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.exe
+G:\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.pdb
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe.config
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.exe
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\EasyCodeBuilder.pdb
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csprojAssemblyReference.cache
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Assignment.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Calculation.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBlock.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddOutputObject.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.BreakControl.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.CaseControl.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Conditions.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Loop.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ArrayDefine.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.InputConsole.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.OutputConsole.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.DictionaryDefine.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.IndexAssignment.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListInsert.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ListDefine.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddDictionary.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Items.MultiData.MultiDate.AddListe.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.ReturnMold.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.VariableDefine.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.AddMethod.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MainMethod.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.MethodVariable.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Contlols.Method.UseMethod.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form1.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.Form2.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.StatementBase.resources
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.GenerateResource.cache
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.csproj.CopyComplete
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.exe
+C:\Users\Binary\source\repos\EasyCodeBuilder1.2.0\EasyCodeBuilder 1.1\EasyCodeBuilder\obj\Debug\EasyCodeBuilder.pdb
