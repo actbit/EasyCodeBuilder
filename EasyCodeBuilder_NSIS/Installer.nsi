@@ -30,7 +30,7 @@ XPStyle on
 Section 
     SetOutPath "$INSTDIR"
     File "..\EasyCodeBuilder\bin\Release\EasyCodeBuilder.exe"
-    File "..\EasyCodeBuilder\bin\Release\EasyCodeBuilder.exe.manifest"
+    File "..\EasyCodeBuilder\bin\Release\EasyCodeBuilder.exe.config"
     File "..\LICENSE"
     WriteUninstaller "$INSTDIR\Uninstall.exe"
     CreateDirectory "$SMPROGRAMS\EasyCodeBuilder"
@@ -48,7 +48,7 @@ SectionEnd
 Section "Uninstall"
     Delete "$INSTDIR\Uninstall.exe"
     Delete "$INSTDIR\EasyCodeBuilder.exe"
-    Delete "$INSTDIR\EasyCodeBuilder.exe.manifest"
+    Delete "$INSTDIR\EasyCodeBuilder.exe.config"
     Delete "$INSTDIR\LICENSE"
     Delete "$SMPROGRAMS\EasyCodeBuilder\EasyCodeBuilder.lnk"
     Delete "$SMPROGRAMS\EasyCodeBuilder\Uninstall.lnk"
