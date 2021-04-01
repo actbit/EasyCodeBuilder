@@ -36,9 +36,9 @@ namespace EasyCodeBuilder
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            appPath = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
+            appPath = Path.GetTempPath(); 
             //appPath=Path.GetDirectoryName(appPath);
-            appPath = Path.Combine(appPath, "一時ファイルEasyCodeBuilder");
+            appPath = Path.Combine(appPath, "TMP_EasyCodeBuilder");
             label4.Text = "";
             try
             {

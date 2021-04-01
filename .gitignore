@@ -1,0 +1,4 @@
+/EasyCodeBuilder_NSIS/*.exe
+/EasyCodeBuilder/.vs
+/EasyCodeBuilder/bin/
+/EasyCodeBuilder/obj/
