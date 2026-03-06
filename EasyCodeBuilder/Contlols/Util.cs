@@ -19,7 +19,7 @@ namespace EasyCodeBuilder
             OrderControls = MystatementBlock.GetOrderControls();
             if (Type == 0)
             {
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
                     {
@@ -50,7 +50,7 @@ namespace EasyCodeBuilder
             if (Type == 1)
             {
 
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
 
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
@@ -90,7 +90,7 @@ namespace EasyCodeBuilder
             }
             if (Type == 2)
             {
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
                     
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
@@ -130,7 +130,7 @@ namespace EasyCodeBuilder
             if (Type == 3)
             {
 
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
 
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
@@ -171,7 +171,7 @@ namespace EasyCodeBuilder
             if (Type == 4)
             {
 
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
 
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
@@ -212,7 +212,7 @@ namespace EasyCodeBuilder
             if (Type == 5)
             {
 
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
 
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
@@ -253,7 +253,7 @@ namespace EasyCodeBuilder
             if (Type == 10)
             {
 
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
 
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
@@ -294,7 +294,7 @@ namespace EasyCodeBuilder
             if (Type == 11)
             {
 
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
 
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
@@ -335,7 +335,7 @@ namespace EasyCodeBuilder
             if (Type == 12)
             {
 
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
 
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
@@ -376,7 +376,7 @@ namespace EasyCodeBuilder
             if (Type == 13)
             {
 
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
 
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
@@ -417,7 +417,7 @@ namespace EasyCodeBuilder
             if (Type == 14)
             {
 
-                for (int i = 0; OrderControls[i] != MyControl; i++)
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
 
                     if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
@@ -453,40 +453,40 @@ namespace EasyCodeBuilder
                     }
 
                 }
-                if (Type == 15)
+
+            }
+            if (Type == 15)
+            {
+
+                for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
                 {
 
-                    for (int i = 0; OrderControls[i] != MyControl; i++)
+                    if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
                     {
 
-                        if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
+                        VariableDefine variableDefineName = (VariableDefine)OrderControls[i];
+                        if (variableDefineName.comboBox1.SelectedIndex == 5)
                         {
-
-                            VariableDefine variableDefineName = (VariableDefine)OrderControls[i];
-                            if (variableDefineName.comboBox1.SelectedIndex == 5)
+                            if (string.IsNullOrWhiteSpace(variableDefineName.textBox1.Text) == false || string.IsNullOrEmpty(variableDefineName.comboBox1.Text) == false)
                             {
-                                if (string.IsNullOrWhiteSpace(variableDefineName.textBox1.Text) == false || string.IsNullOrEmpty(variableDefineName.comboBox1.Text) == false)
-                                {
-                                    vList.Add(variableDefineName.textBox1.Text);
-                                }
-
+                                vList.Add(variableDefineName.textBox1.Text);
                             }
 
-
                         }
-                        else if (OrderControls[i].GetType().Equals(typeof(ArrayDefine)))
-                        {
-                            ArrayDefine arrayDefineName = (ArrayDefine)OrderControls[i];
-                            if (arrayDefineName.arrayType.SelectedIndex == 5)
-                            {
-                                if (string.IsNullOrWhiteSpace(arrayDefineName.textBox1.Text) == false && string.IsNullOrEmpty(arrayDefineName.arrayType.Text) == false && string.IsNullOrWhiteSpace(arrayDefineName.textBox2.Text) == false)
-                                {
-                                    for (int j = 0; j < int.Parse(arrayDefineName.textBox2.Text); j++)
-                                    {
-                                        vList.Add(arrayDefineName.textBox1.Text + "[" + j + "]");
-                                    }
-                                }
 
+
+                    }
+                    else if (OrderControls[i].GetType().Equals(typeof(ArrayDefine)))
+                    {
+                        ArrayDefine arrayDefineName = (ArrayDefine)OrderControls[i];
+                        if (arrayDefineName.arrayType.SelectedIndex == 5)
+                        {
+                            if (string.IsNullOrWhiteSpace(arrayDefineName.textBox1.Text) == false && string.IsNullOrEmpty(arrayDefineName.arrayType.Text) == false && string.IsNullOrWhiteSpace(arrayDefineName.textBox2.Text) == false)
+                            {
+                                for (int j = 0; j < int.Parse(arrayDefineName.textBox2.Text); j++)
+                                {
+                                    vList.Add(arrayDefineName.textBox1.Text + "[" + j + "]");
+                                }
                             }
 
                         }
@@ -517,7 +517,7 @@ namespace EasyCodeBuilder
             StatementBlock MystatementBlock = (StatementBlock)MyParent;
             List<StatementBase> OrderControls = new List<StatementBase>();
             OrderControls = MystatementBlock.GetOrderControls();
-            for (int i = 0; OrderControls[i] != MyControl; i++)
+            for (int i = 0; i < OrderControls.Count && OrderControls[i] != MyControl; i++)
             {
                 if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
                 {

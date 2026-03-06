@@ -179,36 +179,45 @@ namespace EasyCodeBuilder
             {
                 if (checkBox2.Checked == false)
                 {
-                    if (typeDic[comboBox1.Text] == typeDic[comboBox2.Text] && typeDic[comboBox1.Text] == typeDic[comboBox4.Text])
+                    if (typeDic.ContainsKey(comboBox1.Text) && typeDic.ContainsKey(comboBox2.Text) && typeDic.ContainsKey(comboBox4.Text))
                     {
+                        if (typeDic[comboBox1.Text] == typeDic[comboBox2.Text] && typeDic[comboBox1.Text] == typeDic[comboBox4.Text])
+                        {
 
-                    }
-                    else
-                    {
-                        Form1.MessageBoxValue("型が異なります", true);
+                        }
+                        else
+                        {
+                            Form1.MessageBoxValue("型が異なります", true);
+                        }
                     }
                 }
                 else
                 {
-                    if (typeDic[comboBox1.Text] == typeDic[comboBox2.Text])
+                    if (typeDic.ContainsKey(comboBox1.Text) && typeDic.ContainsKey(comboBox2.Text))
                     {
+                        if (typeDic[comboBox1.Text] == typeDic[comboBox2.Text])
+                        {
 
-                    }
-                    else
-                    {
-                        Form1.MessageBoxValue("型が異なります", true);
+                        }
+                        else
+                        {
+                            Form1.MessageBoxValue("型が異なります", true);
+                        }
                     }
                 }
             }
             else
             {
-                if (typeDic[comboBox1.Text] == typeDic[comboBox4.Text])
+                if (typeDic.ContainsKey(comboBox1.Text) && typeDic.ContainsKey(comboBox4.Text))
                 {
+                    if (typeDic[comboBox1.Text] == typeDic[comboBox4.Text])
+                    {
 
-                }
-                else
-                {
-                    Form1.MessageBoxValue("型が異なります", true);
+                    }
+                    else
+                    {
+                        Form1.MessageBoxValue("型が異なります", true);
+                    }
                 }
             }
             

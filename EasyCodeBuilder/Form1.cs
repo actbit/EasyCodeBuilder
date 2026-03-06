@@ -139,7 +139,7 @@ namespace EasyCodeBuilder
                     sa.FileName = @"Project.esycb";
                     break;
                 case 3:
-                    sa.Filter = "実行ファイル(*.exe)|*exe";
+                    sa.Filter = "実行ファイル(*.exe)|*.exe";
                     sa.FileName = @"Project.exe";
                     break;
 
@@ -534,7 +534,7 @@ namespace EasyCodeBuilder
 
                     foreach (CompilerError ce in cr.Errors)
                     {
-                        richTextBox1.Text = ce.ToString() + "\n";
+                        richTextBox1.Text += ce.ToString() + "\n";
 
                     }
                 }
@@ -646,7 +646,7 @@ namespace EasyCodeBuilder
 
                             foreach (CompilerError ce in cr.Errors)
                             {
-                                richTextBox1.Text = ce.ToString() + "\n";
+                                richTextBox1.Text += ce.ToString() + "\n";
 
                             }
                         }

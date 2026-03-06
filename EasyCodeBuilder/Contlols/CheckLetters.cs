@@ -138,6 +138,11 @@ namespace EasyCodeBuilder
         /// <param name="type">True:エラー False:警告</param>
         public static void CheckVariables(string name, string name2, Dictionary<string, string> TypeDictionary,bool type)
         {
+                    if (!TypeDictionary.ContainsKey(name))
+                    {
+                        Form1.MessageBoxValue("変数が見つかりません", type);
+                        return;
+                    }
                     switch (TypeDictionary[name])
                     {
 

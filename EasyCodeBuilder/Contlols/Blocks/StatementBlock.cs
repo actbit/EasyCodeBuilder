@@ -165,7 +165,7 @@ namespace EasyCodeBuilder
                 item.Name = "AddMethod" + number.ToString();
                 item.Size = new Size(460, 270);
             }
-            if (item.GetType().Equals(typeof(MainMethod)))
+            else if (item.GetType().Equals(typeof(MainMethod)))
             {
                 item.Name = "Main" + number.ToString();
                 item.Size = new Size(500, 400);
@@ -215,7 +215,7 @@ namespace EasyCodeBuilder
             }
             else if (item.GetType().Equals(typeof(BreakControl)))
             {
-                item.Name = "ArrayDefine" + number.ToString();
+                item.Name = "BreakControl" + number.ToString();
                 item.Size = new Size(400, 100);
             }
             else if (item.GetType().Equals(typeof(ReturnMold)))
@@ -461,11 +461,6 @@ namespace EasyCodeBuilder
         {
             for(int i = 0;i<ControlOrder.Count;i++)
             {
-                if(ControlOrder[i].Parent is StatementBase)
-                {
-                    ControlOrder[i].ChangeName(afterName, beforeName,type);
-                }
-
                 ControlOrder[i].ChangeName(afterName, beforeName,type);
             }
         }

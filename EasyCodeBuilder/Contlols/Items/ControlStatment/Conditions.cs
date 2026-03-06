@@ -327,8 +327,8 @@ namespace EasyCodeBuilder
             Condition.ConditionType = comboBox1.SelectedIndex;
             Condition.Value1 = comboBox2.Text;
             Condition.Value2 = comboBox4.Text;
-            Condition.UseElse = checkBox1.Checked;
-            Condition.Constant = checkBox2.Checked;
+            Condition.Constant = checkBox1.Checked;
+            Condition.UseElse = checkBox2.Checked;
             Condition.Opreater = comboBox3.SelectedIndex;
             Condition.Block1 = statementBlock1.CreateProgramDefine();
             Condition.Block2 = statementBlock2.CreateProgramDefine();
