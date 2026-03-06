@@ -5,6 +5,7 @@ using EasyCodeBuilder.Application.Interfaces;
 using EasyCodeBuilder.Core.Interfaces;
 using EasyCodeBuilder.Infrastructure.Services;
 using EasyCodeBuilder.Presentation.Forms;
+using WinFormsApp = System.Windows.Forms.Application;
 
 namespace EasyCodeBuilder
 {
@@ -21,8 +22,8 @@ namespace EasyCodeBuilder
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
+            WinFormsApp.EnableVisualStyles();
+            WinFormsApp.SetCompatibleTextRenderingDefault(false);
 
             // DIコンテナの設定
             var services = new ServiceCollection();
@@ -30,7 +31,7 @@ namespace EasyCodeBuilder
             ServiceProvider = services.BuildServiceProvider();
 
             // MainFormをDIコンテナから取得して起動
-            Application.Run(ServiceProvider.GetRequiredService<MainForm>());
+            WinFormsApp.Run(ServiceProvider.GetRequiredService<MainForm>());
         }
 
         /// <summary>

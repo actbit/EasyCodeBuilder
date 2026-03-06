@@ -1,8 +1,7 @@
 using System;
 using System.Windows.Forms;
+using EasyCodeBuilder;
 using EasyCodeBuilder.Application.Interfaces;
-using EasyCodeBuilder.Contlols.Blocks;
-using EasyCodeBuilder.Contlols.Items;
 
 namespace EasyCodeBuilder.Presentation.Forms
 {

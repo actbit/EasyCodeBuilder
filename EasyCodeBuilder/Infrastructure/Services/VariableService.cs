@@ -1,8 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
-using EasyCodeBuilder.Contlols.Blocks;
-using EasyCodeBuilder.Contlols.Items;
 using EasyCodeBuilder.Core.Interfaces;
 
 namespace EasyCodeBuilder.Infrastructure.Services

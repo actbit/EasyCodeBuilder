@@ -1,4 +1,4 @@
-using EasyCodeBuilder.Contlols.XmlFolder;
+using EasyCodeBuilder;
 
 namespace EasyCodeBuilder.Application.Interfaces
 {

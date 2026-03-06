@@ -2,10 +2,10 @@ using System;
 using System.IO;
 using System.Text;
 using System.Windows.Forms;
+using EasyCodeBuilder;
 using EasyCodeBuilder.Application.Interfaces;
-using EasyCodeBuilder.Contlols.Blocks;
-using EasyCodeBuilder.Contlols.Items;
-using EasyCodeBuilder.Contlols.XmlFolder;
+using EasyCodeBuilder.Core.Interfaces;
+using EasyCodeBuilder.Infrastructure.Services;
 
 namespace EasyCodeBuilder.Presentation.Forms
 {
