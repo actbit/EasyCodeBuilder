@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio upgrade log
+UpgradeLog*.htm
+
+# NuGet
+packages/
+*.nupkg
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# User-specific files
+*.rsuser
+*.pfx
