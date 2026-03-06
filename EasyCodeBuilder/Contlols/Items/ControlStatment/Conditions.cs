@@ -255,13 +255,20 @@ namespace EasyCodeBuilder
                     if (checkBox1.Checked)
                     {
                         CheckLetters.CheckVariables(comboBox2.Text, comboBox4.Text, TypeDictionary,true);
-                        if (TypeDictionary[comboBox2.Text] == "char")
+                        if (TypeDictionary.ContainsKey(comboBox2.Text))
                         {
-                            value = "\'" + comboBox4.Text + "\'";
-                        }
-                        else if(TypeDictionary[comboBox2.Text] == "string")
-                        {
-                            value = "\"" + comboBox4.Text + "\"";
+                            if (TypeDictionary[comboBox2.Text] == "char")
+                            {
+                                value = "\'" + comboBox4.Text + "\'";
+                            }
+                            else if(TypeDictionary[comboBox2.Text] == "string")
+                            {
+                                value = "\"" + comboBox4.Text + "\"";
+                            }
+                            else
+                            {
+                                value = comboBox4.Text;
+                            }
                         }
                         else
                         {

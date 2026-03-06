@@ -564,7 +564,7 @@ namespace EasyCodeBuilder
             StatementBlock MystatementBlock = (StatementBlock)MyParent;
             List<StatementBase> OrderControls = new List<StatementBase>();
             OrderControls = MystatementBlock.GetOrderControls();
-            for (int i = 0; OrderControls[i] != My; i++)
+            for (int i = 0; i < OrderControls.Count && OrderControls[i] != My; i++)
             {
                 if (OrderControls[i].GetType().Equals(typeof(VariableDefine)))
                 {
