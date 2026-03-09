@@ -41,6 +41,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <Prefer32Bit>false</Prefer32Bit>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -86,6 +87,7 @@
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
     <Reference Include="Microsoft.VisualStudio.DebuggerVisualizers" />
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -104,6 +106,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Application\Interfaces\ICompilerService.cs" />
+    <Compile Include="Application\Interfaces\IFileDialogService.cs" />
+    <Compile Include="Application\Interfaces\IMessageBoxService.cs" />
+    <Compile Include="Application\Interfaces\IProjectPersistenceService.cs" />
+    <Compile Include="Application\Interfaces\IStatementFactory.cs" />
+    <Compile Include="Core\Interfaces\ITypeService.cs" />
+    <Compile Include="Core\Interfaces\IValidationService.cs" />
+    <Compile Include="Core\Interfaces\IVariableService.cs" />
+    <Compile Include="Core\Models\ValidationResult.cs" />
+    <Compile Include="Core\Models\VariableInfo.cs" />
+    <Compile Include="Infrastructure\Services\CompilerService.cs" />
+    <Compile Include="Infrastructure\Services\FileDialogService.cs" />
+    <Compile Include="Infrastructure\Services\MessageBoxService.cs" />
+    <Compile Include="Infrastructure\Services\ProjectPersistenceService.cs" />
+    <Compile Include="Infrastructure\Services\StatementFactory.cs" />
+    <Compile Include="Infrastructure\Services\TypeService.cs" />
+    <Compile Include="Infrastructure\Services\ValidationService.cs" />
+    <Compile Include="Infrastructure\Services\VariableService.cs" />
     <Compile Include="Contlols\CheckLetters.cs" />
     <Compile Include="Contlols\Items\Assignment.cs">
       <SubType>UserControl</SubType>
@@ -350,6 +370,26 @@
     <EmbeddedResource Include="Contlols\Items\StatementBase.resx">
       <DependentUpon>StatementBase.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Forms\AddControlDialog.resx">
+      <DependentUpon>AddControlDialog.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Presentation\Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Forms\AddControlDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Forms\AddControlDialog.Designer.cs">
+      <DependentUpon>AddControlDialog.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

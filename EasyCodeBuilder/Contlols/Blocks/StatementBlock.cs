@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Text.RegularExpressions;
+using EasyCodeBuilder.Presentation.Forms;
 
 namespace EasyCodeBuilder
 {
@@ -50,7 +51,7 @@ namespace EasyCodeBuilder
             for (; ; )
             {
 
-                if (Parenta.Parent.Parent.GetType() == typeof(Form1))
+                if (Parenta.Parent.Parent.GetType() == typeof(Form1) || Parenta.Parent.Parent.GetType() == typeof(MainForm))
                 {
                     break;
                 }
@@ -65,7 +66,7 @@ namespace EasyCodeBuilder
 
 
 
-            Form2 AddForm = new Form2(this,DialogType);
+            AddControlDialog AddForm = new AddControlDialog(this, DialogType);
             AddForm.ShowDialog(this);
             AddForm.Dispose();
         }
@@ -95,8 +96,8 @@ namespace EasyCodeBuilder
             Control Parenta = this.Parent;
             for(; ; )
             {
-                
-                if (Parenta.Parent.Parent.GetType()==typeof(Form1))
+
+                if (Parenta.Parent.Parent.GetType()==typeof(Form1) || Parenta.Parent.Parent.GetType()==typeof(MainForm))
                 {
                     break;
                 }
@@ -111,7 +112,7 @@ namespace EasyCodeBuilder
 
 
 
-            Form2 AddForm = new Form2(this,DialogType);
+            AddControlDialog AddForm = new AddControlDialog(this, DialogType);
             AddForm.ShowDialog(this);
             AddForm.Dispose();
         }
@@ -451,10 +452,17 @@ namespace EasyCodeBuilder
             InsertContlols(StatementName);
             ControlOrder[IndexNumber].ControlSetup(name);
             number++;
-            if (this.Parent.Parent.Parent.GetType() == typeof(Form1))
+            if (this.Parent.Parent.Parent.GetType() == typeof(Form1) || this.Parent.Parent.Parent.GetType() == typeof(MainForm))
             {
-                Form1 Mparent = (Form1)Parent.Parent.Parent;
-                Mparent.AddBar(1);
+                var Mparent = Parent.Parent.Parent;
+                if (Mparent is Form1 form1)
+                {
+                    form1.AddBar(1);
+                }
+                else if (Mparent is MainForm mainForm)
+                {
+                    mainForm.AddBar(1);
+                }
             }
         }
         public void CheckName(string afterName ,string beforeName,bool type)
